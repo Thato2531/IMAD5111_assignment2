@@ -19,3 +19,6 @@ With an intuitive interface and mobile-friendly design, anyone — from students
 
 💡 Demonstrates Core Android Development Skills:
 For developers, the app is a practical example of working with Kotlin, UI design, activity navigation, and data handling — all essential components of real-world Android apps
+
+YouTube link:
+https://www.youtube.com/shorts/-tN3URzqwa8 
